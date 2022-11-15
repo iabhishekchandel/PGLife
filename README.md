@@ -1,2 +1,5 @@
-# PGLife_Project
-This is a PGLife_Project
+# This is my 3rd year project
+# Technology used :
+## HTML
+## CSS
+## JS
